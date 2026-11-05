@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Firmatlas autocomplete demo</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --fg: #111827;
+        --muted: #6b7280;
+        --line: #e5e7eb;
+        --field: #fff;
+        --bg: #fafafa;
+        --focus: #2563eb;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      }
+      main {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 48px 16px 80px;
+      }
+      h1 {
+        font-size: 26px;
+        letter-spacing: -0.02em;
+        margin: 0 0 6px;
+      }
+      h2 {
+        font-size: 17px;
+        margin: 0 0 4px;
+      }
+      p {
+        margin: 0 0 16px;
+        color: var(--muted);
+      }
+      section {
+        background: #fff;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 24px;
+        margin-top: 24px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(6, 1fr);
+        gap: 12px;
+      }
+      label {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        font-size: 13px;
+        font-weight: 500;
+      }
+      .s6 {
+        grid-column: span 6;
+      }
+      .s4 {
+        grid-column: span 4;
+      }
+      .s3 {
+        grid-column: span 3;
+      }
+      .s2 {
+        grid-column: span 2;
+      }
+      .s1 {
+        grid-column: span 1;
+      }
+      @media (max-width: 560px) {
+        .s4,
+        .s3,
+        .s2,
+        .s1 {
+          grid-column: span 6;
+        }
+      }
+      input,
+      select {
+        font: inherit;
+        color: inherit;
+        height: 40px;
+        padding: 0 10px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--field);
+        width: 100%;
+      }
+      input:focus-visible,
+      select:focus-visible {
+        outline: 2px solid var(--focus);
+        outline-offset: 1px;
+      }
+      pre {
+        margin: 16px 0 0;
+        padding: 12px;
+        background: #f4f4f5;
+        border-radius: 8px;
+        font-size: 12.5px;
+        overflow: auto;
+        min-height: 3em;
+      }
+      code {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 13px;
+      }
+      .mode {
+        display: inline-block;
+        margin-top: 8px;
+        padding: 2px 8px;
+        border-radius: 999px;
+        background: #eef2ff;
+        color: #3730a3;
+        font-size: 12.5px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Firmatlas autocomplete</h1>
+      <p>
+        Type a Belgian company name or enterprise number. Pick a result and the form fills itself. Arrow keys,
+        Enter and Escape work; so does a tap.
+      </p>
+      <span class="mode" id="mode"></span>
+
+      <section aria-labelledby="declarative-title">
+        <h2 id="declarative-title">Declarative</h2>
+        <p>Attributes only: <code>data-kbo-autocomplete</code>, a key, and a selector per field to fill.</p>
+        <form class="grid" onsubmit="event.preventDefault()">
+          <label class="s6"
+            >Company
+            <input
+              id="company"
+              name="company"
+              data-kbo-autocomplete
+              data-kbo-fill-vat="#vat"
+              data-kbo-fill-street="#street"
+              data-kbo-fill-number="#number"
+              data-kbo-fill-box="#box"
+              data-kbo-fill-zipcode="#zipcode"
+              data-kbo-fill-city="#city"
+              data-kbo-fill-country="#country"
+              placeholder="Electrabel, 0403.170.701 …"
+          /></label>
+          <label class="s3">VAT number <input id="vat" name="vat" /></label>
+          <label class="s3"
+            >Country
+            <select id="country" name="country">
+              <option value="">Choose…</option>
+              <option value="BE">Belgium</option>
+              <option value="NL">Netherlands</option>
+              <option value="FR">France</option>
+            </select></label
+          >
+          <label class="s4">Street <input id="street" name="street" /></label>
+          <label class="s1">Number <input id="number" name="number" /></label>
+          <label class="s1">Box <input id="box" name="box" /></label>
+          <label class="s2">Postcode <input id="zipcode" name="zipcode" /></label>
+          <label class="s4">City <input id="city" name="city" /></label>
+        </form>
+      </section>
+
+      <section aria-labelledby="programmatic-title">
+        <h2 id="programmatic-title">Programmatic, in French</h2>
+        <p><code>KboAutocomplete.attach(input, &#123; key, lang: "fr", onSelect &#125;)</code> and the <code>kbo:select</code> event.</p>
+        <label>Entreprise <input id="fr-company" placeholder="Solvay, BE0403091220 …" /></label>
+        <pre id="event" aria-live="polite"></pre>
+      </section>
+    </main>
+    <script type="module" src="./demo.ts"></script>
+  </body>
+</html>

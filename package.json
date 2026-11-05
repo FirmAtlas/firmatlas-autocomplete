@@ -1,0 +1,53 @@
+{
+  "name": "@firmatlas/autocomplete",
+  "version": "0.1.0",
+  "description": "Belgian company autocomplete for any form: search the KBO by name or number and fill in the company, VAT number and address.",
+  "license": "MIT",
+  "author": "Arne Van Daele (https://arnevandaele.com)",
+  "homepage": "https://github.com/FirmAtlas/firmatlas-autocomplete#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirmAtlas/firmatlas-autocomplete.git"
+  },
+  "keywords": [
+    "kbo",
+    "bce",
+    "belgium",
+    "company",
+    "autocomplete",
+    "vat",
+    "combobox"
+  ],
+  "type": "module",
+  "sideEffects": [
+    "./dist/firmatlas-autocomplete.iife.js"
+  ],
+  "main": "./dist/firmatlas-autocomplete.js",
+  "module": "./dist/firmatlas-autocomplete.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/firmatlas-autocomplete.js"
+    },
+    "./iife": "./dist/firmatlas-autocomplete.iife.js"
+  },
+  "jsdelivr": "./dist/firmatlas-autocomplete.iife.js",
+  "unpkg": "./dist/firmatlas-autocomplete.iife.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build && vite build --config vite.iife.config.ts && tsc -p tsconfig.build.json && node scripts/size.mjs",
+    "test": "vitest run",
+    "check": "tsc --noEmit",
+    "demo": "vite --host 0.0.0.0 --port 5173"
+  },
+  "devDependencies": {
+    "axe-core": "^4.14.0",
+    "jsdom": "^30.1.3",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.5",
+    "vitest": "^5.0.5"
+  }
+}

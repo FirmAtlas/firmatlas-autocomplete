@@ -1,0 +1,2060 @@
+{
+ "nl|electrabel": [
+  {
+   "number": "0403170701",
+   "number_formatted": "0403.170.701",
+   "vat_number": "BE0403170701",
+   "name": "ELECTRABEL",
+   "address": {
+    "street": "Simon Bolivarlaan",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0465399763",
+   "number_formatted": "0465.399.763",
+   "vat_number": "BE0465399763",
+   "name": "ELECTRABEL GREEN PROJECTS FLANDERS",
+   "address": {
+    "street": "Simon Bolivarlaan",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0479612837",
+   "number_formatted": "0479.612.837",
+   "vat_number": "BE0479612837",
+   "name": "ELECTRABEL SEANERGY",
+   "address": {
+    "street": "Simon Bolivarlaan",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0480537109",
+   "number_formatted": "0480.537.109",
+   "vat_number": "BE0480537109",
+   "name": "ELECTRABEL DEUTSCHLAND AG",
+   "address": {
+    "street": "Friedrichstrasse",
+    "house_number": "200",
+    "box": null,
+    "zipcode": null,
+    "municipality": "Berlin",
+    "country": "Duitsland (Bondsrep.)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0851643172",
+   "number_formatted": "0851.643.172",
+   "vat_number": "BE0851643172",
+   "name": "ELECTRABEL NORDIC",
+   "address": {
+    "street": "STORTORGET",
+    "house_number": "8",
+    "box": null,
+    "zipcode": null,
+    "municipality": "MALMO",
+    "country": "Zweden",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0719643790",
+   "number_formatted": "0719.643.790",
+   "vat_number": "BE0719643790",
+   "name": "ELECTRABELGIUM",
+   "address": {
+    "street": "Route de Gembloux",
+    "house_number": "66",
+    "box": null,
+    "zipcode": "5310",
+    "municipality": "Eghezée",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|electrabel": [
+  {
+   "number": "0403170701",
+   "number_formatted": "0403.170.701",
+   "vat_number": "BE0403170701",
+   "name": "ELECTRABEL",
+   "address": {
+    "street": "Boulevard Simon Bolivar",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0465399763",
+   "number_formatted": "0465.399.763",
+   "vat_number": "BE0465399763",
+   "name": "ELECTRABEL GREEN PROJECTS FLANDERS",
+   "address": {
+    "street": "Boulevard Simon Bolivar",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0479612837",
+   "number_formatted": "0479.612.837",
+   "vat_number": "BE0479612837",
+   "name": "ELECTRABEL SEANERGY",
+   "address": {
+    "street": "Boulevard Simon Bolivar",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0480537109",
+   "number_formatted": "0480.537.109",
+   "vat_number": "BE0480537109",
+   "name": "ELECTRABEL DEUTSCHLAND AG",
+   "address": {
+    "street": "Friedrichstrasse",
+    "house_number": "200",
+    "box": null,
+    "zipcode": null,
+    "municipality": "Berlin",
+    "country": "Allemagne (Rép.féd.)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0851643172",
+   "number_formatted": "0851.643.172",
+   "vat_number": "BE0851643172",
+   "name": "ELECTRABEL NORDIC",
+   "address": {
+    "street": "STORTORGET",
+    "house_number": "8",
+    "box": null,
+    "zipcode": null,
+    "municipality": "MALMO",
+    "country": "Suède",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0719643790",
+   "number_formatted": "0719.643.790",
+   "vat_number": "BE0719643790",
+   "name": "ELECTRABELGIUM",
+   "address": {
+    "street": "Route de Gembloux",
+    "house_number": "66",
+    "box": null,
+    "zipcode": "5310",
+    "municipality": "Eghezée",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|proximus": [
+  {
+   "number": "0202239951",
+   "number_formatted": "0202.239.951",
+   "vat_number": "BE0202239951",
+   "name": "PROXIMUS",
+   "address": {
+    "street": "Koning AlbertII laan",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaarbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0422986613",
+   "number_formatted": "0422.986.613",
+   "vat_number": "BE0422986613",
+   "name": "PROXIMUS LUXEMBOURG SA",
+   "address": {
+    "street": "Rue du Puits Romain",
+    "house_number": "18",
+    "box": null,
+    "zipcode": "8070",
+    "municipality": "Bertrange",
+    "country": "Luxemburg (Groot-Hertogdom)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0458922341",
+   "number_formatted": "0458.922.341",
+   "vat_number": "BE0458922341",
+   "name": "PROXIMUS ART",
+   "address": {
+    "street": "Koning AlbertII laan",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaarbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0463315154",
+   "number_formatted": "0463.315.154",
+   "vat_number": "BE0463315154",
+   "name": "Proximus Pensioenfonds",
+   "address": {
+    "street": "Koning AlbertII laan",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaarbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0477931965",
+   "number_formatted": "0477.931.965",
+   "vat_number": "BE0477931965",
+   "name": "Proximus Real Estate",
+   "address": {
+    "street": "Koning AlbertII laan",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaarbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0648964048",
+   "number_formatted": "0648.964.048",
+   "vat_number": "BE0648964048",
+   "name": "Proximus Infrastructure Holding",
+   "address": {
+    "street": "Koning AlbertII laan",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaarbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|proximus": [
+  {
+   "number": "0202239951",
+   "number_formatted": "0202.239.951",
+   "vat_number": "BE0202239951",
+   "name": "PROXIMUS",
+   "address": {
+    "street": "Boulevard du Roi AlbertII",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaerbeek",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0422986613",
+   "number_formatted": "0422.986.613",
+   "vat_number": "BE0422986613",
+   "name": "PROXIMUS LUXEMBOURG SA",
+   "address": {
+    "street": "Rue du Puits Romain",
+    "house_number": "18",
+    "box": null,
+    "zipcode": "8070",
+    "municipality": "Bertrange",
+    "country": "Luxembourg (Grand-Duché)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0458922341",
+   "number_formatted": "0458.922.341",
+   "vat_number": "BE0458922341",
+   "name": "PROXIMUS ART",
+   "address": {
+    "street": "Boulevard du Roi AlbertII",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaerbeek",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0463315154",
+   "number_formatted": "0463.315.154",
+   "vat_number": "BE0463315154",
+   "name": "Fonds de pension Proximus",
+   "address": {
+    "street": "Boulevard du Roi AlbertII",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaerbeek",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0477931965",
+   "number_formatted": "0477.931.965",
+   "vat_number": "BE0477931965",
+   "name": "Proximus Real Estate",
+   "address": {
+    "street": "Boulevard du Roi AlbertII",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaerbeek",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0648964048",
+   "number_formatted": "0648.964.048",
+   "vat_number": "BE0648964048",
+   "name": "Proximus Infrastructure Holding",
+   "address": {
+    "street": "Boulevard du Roi AlbertII",
+    "house_number": "27",
+    "box": null,
+    "zipcode": "1030",
+    "municipality": "Schaerbeek",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|colruyt": [
+  {
+   "number": "0400378485",
+   "number_formatted": "0400.378.485",
+   "vat_number": "BE0400378485",
+   "name": "Colruyt Group",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0676636267",
+   "number_formatted": "0676.636.267",
+   "vat_number": "BE0676636267",
+   "name": "Colruyt Gestion SA",
+   "address": {
+    "street": "Rue F.W. Raiffeisen",
+    "house_number": "5",
+    "box": null,
+    "zipcode": "2411",
+    "municipality": "Luxembourg",
+    "country": "Luxemburg (Groot-Hertogdom)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0716663318",
+   "number_formatted": "0716.663.318",
+   "vat_number": "BE0716663318",
+   "name": "COLRUYT CASH AND CARRY",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0716663615",
+   "number_formatted": "0716.663.615",
+   "vat_number": "BE0716663615",
+   "name": "Colruyt Food Retail",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0753616160",
+   "number_formatted": "0753.616.160",
+   "vat_number": "BE0753616160",
+   "name": "Colruyt Group Foundation",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0817133740",
+   "number_formatted": "0817.133.740",
+   "vat_number": "BE0817133740",
+   "name": "Colruyt group India private limited",
+   "address": {
+    "street": "Gebouw Nr. 21, Raheja Mindspace",
+    "house_number": "64",
+    "box": null,
+    "zipcode": "500081",
+    "municipality": "Hyderabad Andhra Pradesh",
+    "country": "India",
+    "country_code": null
+   }
+  }
+ ],
+ "fr|colruyt": [
+  {
+   "number": "0400378485",
+   "number_formatted": "0400.378.485",
+   "vat_number": "BE0400378485",
+   "name": "Colruyt Group",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0676636267",
+   "number_formatted": "0676.636.267",
+   "vat_number": "BE0676636267",
+   "name": "Colruyt Gestion SA",
+   "address": {
+    "street": "Rue F.W. Raiffeisen",
+    "house_number": "5",
+    "box": null,
+    "zipcode": "2411",
+    "municipality": "Luxembourg",
+    "country": "Luxembourg (Grand-Duché)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0716663318",
+   "number_formatted": "0716.663.318",
+   "vat_number": "BE0716663318",
+   "name": "COLRUYT CASH AND CARRY",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0716663615",
+   "number_formatted": "0716.663.615",
+   "vat_number": "BE0716663615",
+   "name": "Colruyt Food Retail",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0753616160",
+   "number_formatted": "0753.616.160",
+   "vat_number": "BE0753616160",
+   "name": "Colruyt Group Foundation",
+   "address": {
+    "street": "Edingensesteenweg",
+    "house_number": "196",
+    "box": null,
+    "zipcode": "1500",
+    "municipality": "Halle",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0817133740",
+   "number_formatted": "0817.133.740",
+   "vat_number": "BE0817133740",
+   "name": "Colruyt group India private limited",
+   "address": {
+    "street": "Gebouw Nr. 21, Raheja Mindspace",
+    "house_number": "64",
+    "box": null,
+    "zipcode": "500081",
+    "municipality": "Hyderabad Andhra Pradesh",
+    "country": "Inde",
+    "country_code": null
+   }
+  }
+ ],
+ "nl|kbc": [
+  {
+   "number": "0403227515",
+   "number_formatted": "0403.227.515",
+   "vat_number": "BE0403227515",
+   "name": "KBC Groep",
+   "address": {
+    "street": "Havenlaan",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Sint-Jans-Molenbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403278488",
+   "number_formatted": "0403.278.488",
+   "vat_number": "BE0403278488",
+   "name": "KBC Commercial Finance",
+   "address": {
+    "street": "Havenlaan",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Sint-Jans-Molenbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403552563",
+   "number_formatted": "0403.552.563",
+   "vat_number": "BE0403552563",
+   "name": "KBC VERZEKERINGEN",
+   "address": {
+    "street": "Professor Van Overstraetenplein",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0422562385",
+   "number_formatted": "0422.562.385",
+   "vat_number": "BE0422562385",
+   "name": "KBC Autolease",
+   "address": {
+    "street": "Professor Van Overstraetenplein",
+    "house_number": "5",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0426403684",
+   "number_formatted": "0426.403.684",
+   "vat_number": "BE0426403684",
+   "name": "KBC Lease Belgium",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "100",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0438007854",
+   "number_formatted": "0438.007.854",
+   "vat_number": "BE0438007854",
+   "name": "KBC VASTGOEDPORTEFEUILLE BELGIE",
+   "address": {
+    "street": "Havenlaan",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Sint-Jans-Molenbeek",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|kbc": [
+  {
+   "number": "0403227515",
+   "number_formatted": "0403.227.515",
+   "vat_number": "BE0403227515",
+   "name": "KBC Groupe",
+   "address": {
+    "street": "Avenue du Port",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Molenbeek-Saint-Jean",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403278488",
+   "number_formatted": "0403.278.488",
+   "vat_number": "BE0403278488",
+   "name": "KBC Commercial Finance",
+   "address": {
+    "street": "Avenue du Port",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Molenbeek-Saint-Jean",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403552563",
+   "number_formatted": "0403.552.563",
+   "vat_number": "BE0403552563",
+   "name": "KBC ASSURANCES",
+   "address": {
+    "street": "Professor Van Overstraetenplein",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0422562385",
+   "number_formatted": "0422.562.385",
+   "vat_number": "BE0422562385",
+   "name": "KBC Autolease",
+   "address": {
+    "street": "Professor Van Overstraetenplein",
+    "house_number": "5",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0426403684",
+   "number_formatted": "0426.403.684",
+   "vat_number": "BE0426403684",
+   "name": "KBC Lease Belgium",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "100",
+    "box": null,
+    "zipcode": "3000",
+    "municipality": "Leuven",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0438007854",
+   "number_formatted": "0438.007.854",
+   "vat_number": "BE0438007854",
+   "name": "KBC VASTGOEDPORTEFEUILLE BELGIE",
+   "address": {
+    "street": "Avenue du Port",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1080",
+    "municipality": "Molenbeek-Saint-Jean",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|bpost": [
+  {
+   "number": "0214596464",
+   "number_formatted": "0214.596.464",
+   "vat_number": "BE0214596464",
+   "name": "bpost",
+   "address": {
+    "street": "Anspachlaan",
+    "house_number": "1",
+    "box": "1",
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1011508674",
+   "number_formatted": "1011.508.674",
+   "vat_number": "BE1011508674",
+   "name": "bpostgroup",
+   "address": {
+    "street": "Anspachlaan",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1004237832",
+   "number_formatted": "1004.237.832",
+   "vat_number": "BE1004237832",
+   "name": "Société simple bpost - speos",
+   "address": {
+    "street": "Anspachlaan",
+    "house_number": "1",
+    "box": "1",
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0880183839",
+   "number_formatted": "0880.183.839",
+   "vat_number": "BE0880183839",
+   "name": "KONINKLIJKE VERENIGING BPOSTPERSONEEL WEST VLAANDEREN",
+   "address": {
+    "street": "Kasteelstraat",
+    "house_number": "145",
+    "box": "21",
+    "zipcode": "8800",
+    "municipality": "Roeselare",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0803936592",
+   "number_formatted": "0803.936.592",
+   "vat_number": "BE0803936592",
+   "name": "Société Simple Momentanée des SA COLLIGNON - EES INFRA (BPOST)",
+   "address": {
+    "street": "Briscol",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "6997",
+    "municipality": "Erezée",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1000795817",
+   "number_formatted": "1000.795.817",
+   "vat_number": "BE1000795817",
+   "name": "Société Simple Momentanée de SA COLLIGNON - EES INFRA - ATI INDUSTRIE - ECV-FEXIM (BPOST BIS)",
+   "address": {
+    "street": "Briscol",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "6997",
+    "municipality": "Erezée",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|bpost": [
+  {
+   "number": "0214596464",
+   "number_formatted": "0214.596.464",
+   "vat_number": "BE0214596464",
+   "name": "bpost",
+   "address": {
+    "street": "Boulevard Anspach",
+    "house_number": "1",
+    "box": "1",
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1011508674",
+   "number_formatted": "1011.508.674",
+   "vat_number": "BE1011508674",
+   "name": "bpostgroup",
+   "address": {
+    "street": "Boulevard Anspach",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1004237832",
+   "number_formatted": "1004.237.832",
+   "vat_number": "BE1004237832",
+   "name": "Société simple bpost - speos",
+   "address": {
+    "street": "Boulevard Anspach",
+    "house_number": "1",
+    "box": "1",
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0880183839",
+   "number_formatted": "0880.183.839",
+   "vat_number": "BE0880183839",
+   "name": "KONINKLIJKE VERENIGING BPOSTPERSONEEL WEST VLAANDEREN",
+   "address": {
+    "street": "Kasteelstraat",
+    "house_number": "145",
+    "box": "21",
+    "zipcode": "8800",
+    "municipality": "Roeselare",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0803936592",
+   "number_formatted": "0803.936.592",
+   "vat_number": "BE0803936592",
+   "name": "Société Simple Momentanée des SA COLLIGNON - EES INFRA (BPOST)",
+   "address": {
+    "street": "Briscol",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "6997",
+    "municipality": "Erezée",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "1000795817",
+   "number_formatted": "1000.795.817",
+   "vat_number": "BE1000795817",
+   "name": "Société Simple Momentanée de SA COLLIGNON - EES INFRA - ATI INDUSTRIE - ECV-FEXIM (BPOST BIS)",
+   "address": {
+    "street": "Briscol",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "6997",
+    "municipality": "Erezée",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|telenet": [
+  {
+   "number": "0473416418",
+   "number_formatted": "0473.416.418",
+   "vat_number": "BE0473416418",
+   "name": "TELENET",
+   "address": {
+    "street": "Liersesteenweg(MeSK)",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0477702333",
+   "number_formatted": "0477.702.333",
+   "vat_number": "BE0477702333",
+   "name": "TELENET GROUP HOLDING",
+   "address": {
+    "street": "Liersesteenweg(MeSK)",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0719379912",
+   "number_formatted": "0719.379.912",
+   "vat_number": "BE0719379912",
+   "name": "Telenet",
+   "address": {
+    "street": "Liersesteenweg",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0458840088",
+   "number_formatted": "0458.840.088",
+   "vat_number": "BE0458840088",
+   "name": "TELENET VLAANDEREN",
+   "address": {
+    "street": "Blarenberglaan",
+    "house_number": "2c",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0462925669",
+   "number_formatted": "0462.925.669",
+   "vat_number": "BE0462925669",
+   "name": "Telenet Group",
+   "address": {
+    "street": "Liersesteenweg",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0649797951",
+   "number_formatted": "0649.797.951",
+   "vat_number": "BE0649797951",
+   "name": "TELENET INTERNATIONAL FINANCE S.à.r.l.",
+   "address": {
+    "street": "rue Peternelchen",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "L-2370",
+    "municipality": "Howald",
+    "country": "Luxemburg (Groot-Hertogdom)",
+    "country_code": null
+   }
+  }
+ ],
+ "fr|telenet": [
+  {
+   "number": "0473416418",
+   "number_formatted": "0473.416.418",
+   "vat_number": "BE0473416418",
+   "name": "TELENET",
+   "address": {
+    "street": "Liersesteenweg(MeSK)",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0477702333",
+   "number_formatted": "0477.702.333",
+   "vat_number": "BE0477702333",
+   "name": "TELENET GROUP HOLDING",
+   "address": {
+    "street": "Liersesteenweg(MeSK)",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0719379912",
+   "number_formatted": "0719.379.912",
+   "vat_number": "BE0719379912",
+   "name": "Telenet",
+   "address": {
+    "street": "Liersesteenweg",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0458840088",
+   "number_formatted": "0458.840.088",
+   "vat_number": "BE0458840088",
+   "name": "TELENET VLAANDEREN",
+   "address": {
+    "street": "Blarenberglaan",
+    "house_number": "2c",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0462925669",
+   "number_formatted": "0462.925.669",
+   "vat_number": "BE0462925669",
+   "name": "Telenet Group",
+   "address": {
+    "street": "Liersesteenweg",
+    "house_number": "4",
+    "box": null,
+    "zipcode": "2800",
+    "municipality": "Mechelen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0649797951",
+   "number_formatted": "0649.797.951",
+   "vat_number": "BE0649797951",
+   "name": "TELENET INTERNATIONAL FINANCE S.à.r.l.",
+   "address": {
+    "street": "rue Peternelchen",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "L-2370",
+    "municipality": "Howald",
+    "country": "Luxembourg (Grand-Duché)",
+    "country_code": null
+   }
+  }
+ ],
+ "nl|solvay": [
+  {
+   "number": "0403091220",
+   "number_formatted": "0403.091.220",
+   "vat_number": "BE0403091220",
+   "name": "SOLVAY",
+   "address": {
+    "street": "Ransbeekstraat",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403238502",
+   "number_formatted": "0403.238.502",
+   "vat_number": "BE0403238502",
+   "name": "SOLVAY, WASHER, JANSSEN",
+   "address": {
+    "street": "Stefaniaplein",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0406804736",
+   "number_formatted": "0406.804.736",
+   "vat_number": "BE0406804736",
+   "name": "SOLVAY CHEMICALS INTERNATIONAL",
+   "address": {
+    "street": "Ransbeekstraat",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0408249541",
+   "number_formatted": "0408.249.541",
+   "vat_number": "BE0408249541",
+   "name": "SOLVAY CHIMIE",
+   "address": {
+    "street": "Ransbeekstraat",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0408690593",
+   "number_formatted": "0408.690.593",
+   "vat_number": "BE0408690593",
+   "name": "Solvay Business School Student Accelerator",
+   "address": {
+    "street": "Pleinlaan",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1050",
+    "municipality": "Elsene",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0409448777",
+   "number_formatted": "0409.448.777",
+   "vat_number": "BE0409448777",
+   "name": "SOLVAY SCHOOLS ALUMNI",
+   "address": {
+    "street": "Franklin Rooseveltlaan",
+    "house_number": "50",
+    "box": null,
+    "zipcode": "1050",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|solvay": [
+  {
+   "number": "0403091220",
+   "number_formatted": "0403.091.220",
+   "vat_number": "BE0403091220",
+   "name": "SOLVAY",
+   "address": {
+    "street": "Rue de Ransbeek",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403238502",
+   "number_formatted": "0403.238.502",
+   "vat_number": "BE0403238502",
+   "name": "SOLVAY, WASHER, JANSSEN",
+   "address": {
+    "street": "Place Stéphanie",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0406804736",
+   "number_formatted": "0406.804.736",
+   "vat_number": "BE0406804736",
+   "name": "SOLVAY CHEMICALS INTERNATIONAL",
+   "address": {
+    "street": "Rue de Ransbeek",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0408249541",
+   "number_formatted": "0408.249.541",
+   "vat_number": "BE0408249541",
+   "name": "SOLVAY CHIMIE",
+   "address": {
+    "street": "Rue de Ransbeek",
+    "house_number": "310",
+    "box": null,
+    "zipcode": "1120",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0408690593",
+   "number_formatted": "0408.690.593",
+   "vat_number": "BE0408690593",
+   "name": "Solvay Business School Student Accelerator",
+   "address": {
+    "street": "Boulevard de la Plaine",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "1050",
+    "municipality": "Ixelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0409448777",
+   "number_formatted": "0409.448.777",
+   "vat_number": "BE0409448777",
+   "name": "SOLVAY SCHOOLS ALUMNI",
+   "address": {
+    "street": "Avenue Franklin Roosevelt",
+    "house_number": "50",
+    "box": null,
+    "zipcode": "1050",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|umicore": [
+  {
+   "number": "0401574852",
+   "number_formatted": "0401.574.852",
+   "vat_number": "BE0401574852",
+   "name": "UMICORE",
+   "address": {
+    "street": "Broekstraat",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0402964625",
+   "number_formatted": "0402.964.625",
+   "vat_number": "BE0402964625",
+   "name": "UMICORE MARKETING SERVICES BELGIUM",
+   "address": {
+    "street": "Broekstraat",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405150984",
+   "number_formatted": "0405.150.984",
+   "vat_number": "BE0405150984",
+   "name": "UMICORE SPECIALTY MATERIALS BRUGGE",
+   "address": {
+    "street": "Kleine Pathoekeweg",
+    "house_number": "82",
+    "box": null,
+    "zipcode": "8000",
+    "municipality": "Brugge",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0428179081",
+   "number_formatted": "0428.179.081",
+   "vat_number": "BE0428179081",
+   "name": "UMICORE FINANCIAL SERVICES",
+   "address": {
+    "street": "Broekstraat",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0801174864",
+   "number_formatted": "0801.174.864",
+   "vat_number": "BE0801174864",
+   "name": "Umicore Battery Materials",
+   "address": {
+    "street": "Broekstraat",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0809244868",
+   "number_formatted": "0809.244.868",
+   "vat_number": "BE0809244868",
+   "name": "umicore climeta  sasu",
+   "address": {
+    "street": "EDOUARD BRANLY",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "68000",
+    "municipality": "COLMAR",
+    "country": "Frankrijk",
+    "country_code": null
+   }
+  }
+ ],
+ "fr|umicore": [
+  {
+   "number": "0401574852",
+   "number_formatted": "0401.574.852",
+   "vat_number": "BE0401574852",
+   "name": "UMICORE",
+   "address": {
+    "street": "Rue du Marais",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0402964625",
+   "number_formatted": "0402.964.625",
+   "vat_number": "BE0402964625",
+   "name": "UMICORE MARKETING SERVICES BELGIUM",
+   "address": {
+    "street": "Rue du Marais",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405150984",
+   "number_formatted": "0405.150.984",
+   "vat_number": "BE0405150984",
+   "name": "UMICORE SPECIALTY MATERIALS BRUGGE",
+   "address": {
+    "street": "Kleine Pathoekeweg",
+    "house_number": "82",
+    "box": null,
+    "zipcode": "8000",
+    "municipality": "Brugge",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0428179081",
+   "number_formatted": "0428.179.081",
+   "vat_number": "BE0428179081",
+   "name": "UMICORE FINANCIAL SERVICES",
+   "address": {
+    "street": "Rue du Marais",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0801174864",
+   "number_formatted": "0801.174.864",
+   "vat_number": "BE0801174864",
+   "name": "Umicore Battery Materials",
+   "address": {
+    "street": "Rue du Marais",
+    "house_number": "31",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0809244868",
+   "number_formatted": "0809.244.868",
+   "vat_number": "BE0809244868",
+   "name": "umicore climeta  sasu",
+   "address": {
+    "street": "EDOUARD BRANLY",
+    "house_number": "1",
+    "box": null,
+    "zipcode": "68000",
+    "municipality": "COLMAR",
+    "country": "France",
+    "country_code": null
+   }
+  }
+ ],
+ "nl|bekaert": [
+  {
+   "number": "0420679595",
+   "number_formatted": "0420.679.595",
+   "vat_number": "BE0420679595",
+   "name": "BEKAERT",
+   "address": {
+    "street": "Geraardsbergse steenweg",
+    "house_number": "126",
+    "box": null,
+    "zipcode": "9860",
+    "municipality": "Oosterzele",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0427678740",
+   "number_formatted": "0427.678.740",
+   "vat_number": "BE0427678740",
+   "name": "BEKAERT",
+   "address": {
+    "street": "Vlasbloemstraat",
+    "house_number": "61",
+    "box": null,
+    "zipcode": "9100",
+    "municipality": "Sint-Niklaas",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0400413129",
+   "number_formatted": "0400.413.129",
+   "vat_number": "BE0400413129",
+   "name": "Bekaert E. et M.",
+   "address": {
+    "street": "Boudewijnlaan",
+    "house_number": "9",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405090608",
+   "number_formatted": "0405.090.608",
+   "vat_number": "BE0405090608",
+   "name": "Bekaert Gebroeders",
+   "address": {
+    "street": "Engelsestraat",
+    "house_number": "22",
+    "box": null,
+    "zipcode": "8000",
+    "municipality": "Brugge",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405406253",
+   "number_formatted": "0405.406.253",
+   "vat_number": "BE0405406253",
+   "name": "Bekaert Depla",
+   "address": {
+    "street": "Kouter (E.)",
+    "house_number": "3",
+    "box": null,
+    "zipcode": "9790",
+    "municipality": "Wortegem-Petegem",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0406207096",
+   "number_formatted": "0406.207.096",
+   "vat_number": "BE0406207096",
+   "name": "Bekaert Investments NV",
+   "address": {
+    "street": "Bekaertstraat(Z)",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "8550",
+    "municipality": "Zwevegem",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|bekaert": [
+  {
+   "number": "0420679595",
+   "number_formatted": "0420.679.595",
+   "vat_number": "BE0420679595",
+   "name": "BEKAERT",
+   "address": {
+    "street": "Geraardsbergse steenweg",
+    "house_number": "126",
+    "box": null,
+    "zipcode": "9860",
+    "municipality": "Oosterzele",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0427678740",
+   "number_formatted": "0427.678.740",
+   "vat_number": "BE0427678740",
+   "name": "BEKAERT",
+   "address": {
+    "street": "Vlasbloemstraat",
+    "house_number": "61",
+    "box": null,
+    "zipcode": "9100",
+    "municipality": "Sint-Niklaas",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0400413129",
+   "number_formatted": "0400.413.129",
+   "vat_number": "BE0400413129",
+   "name": "Bekaert E. et M.",
+   "address": {
+    "street": "Boulevard Baudouin",
+    "house_number": "9",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405090608",
+   "number_formatted": "0405.090.608",
+   "vat_number": "BE0405090608",
+   "name": "Bekaert Gebroeders",
+   "address": {
+    "street": "Engelsestraat",
+    "house_number": "22",
+    "box": null,
+    "zipcode": "8000",
+    "municipality": "Brugge",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0405406253",
+   "number_formatted": "0405.406.253",
+   "vat_number": "BE0405406253",
+   "name": "Bekaert Depla",
+   "address": {
+    "street": "Kouter (E.)",
+    "house_number": "3",
+    "box": null,
+    "zipcode": "9790",
+    "municipality": "Wortegem-Petegem",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0406207096",
+   "number_formatted": "0406.207.096",
+   "vat_number": "BE0406207096",
+   "name": "Bekaert Investments NV",
+   "address": {
+    "street": "Bekaertstraat(Z)",
+    "house_number": "2",
+    "box": null,
+    "zipcode": "8550",
+    "municipality": "Zwevegem",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|ucb": [
+  {
+   "number": "0402040254",
+   "number_formatted": "0402.040.254",
+   "vat_number": "BE0402040254",
+   "name": "UCB Belgium",
+   "address": {
+    "street": "Researchdreef",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403096168",
+   "number_formatted": "0403.096.168",
+   "vat_number": "BE0403096168",
+   "name": "UCB PHARMA",
+   "address": {
+    "street": "Researchdreef",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403198811",
+   "number_formatted": "0403.198.811",
+   "vat_number": "BE0403198811",
+   "name": "UCB Fipar",
+   "address": {
+    "street": "Researchdreef",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0505662087",
+   "number_formatted": "0505.662.087",
+   "vat_number": "BE0505662087",
+   "name": "UCB Lux",
+   "address": {
+    "street": "rue Eugène Ruppert",
+    "house_number": "12",
+    "box": null,
+    "zipcode": "2453",
+    "municipality": "Luxembourg",
+    "country": "Luxemburg (Groot-Hertogdom)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0543573053",
+   "number_formatted": "0543.573.053",
+   "vat_number": "BE0543573053",
+   "name": "UCB BIOPHARMA",
+   "address": {
+    "street": "Researchdreef",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0554859992",
+   "number_formatted": "0554.859.992",
+   "vat_number": "BE0554859992",
+   "name": "UCB Manufacturing Inc.",
+   "address": {
+    "street": "Orange Street",
+    "house_number": "1209",
+    "box": null,
+    "zipcode": "19801",
+    "municipality": "Wilmington",
+    "country": "Verenigde Staten van Amerika",
+    "country_code": null
+   }
+  }
+ ],
+ "fr|ucb": [
+  {
+   "number": "0402040254",
+   "number_formatted": "0402.040.254",
+   "vat_number": "BE0402040254",
+   "name": "UCB Belgium",
+   "address": {
+    "street": "Allée de la Recherche",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403096168",
+   "number_formatted": "0403.096.168",
+   "vat_number": "BE0403096168",
+   "name": "UCB PHARMA",
+   "address": {
+    "street": "Allée de la Recherche",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0403198811",
+   "number_formatted": "0403.198.811",
+   "vat_number": "BE0403198811",
+   "name": "UCB Fipar",
+   "address": {
+    "street": "Allée de la Recherche",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0505662087",
+   "number_formatted": "0505.662.087",
+   "vat_number": "BE0505662087",
+   "name": "UCB Lux",
+   "address": {
+    "street": "rue Eugène Ruppert",
+    "house_number": "12",
+    "box": null,
+    "zipcode": "2453",
+    "municipality": "Luxembourg",
+    "country": "Luxembourg (Grand-Duché)",
+    "country_code": null
+   }
+  },
+  {
+   "number": "0543573053",
+   "number_formatted": "0543.573.053",
+   "vat_number": "BE0543573053",
+   "name": "UCB BIOPHARMA",
+   "address": {
+    "street": "Allée de la Recherche",
+    "house_number": "60",
+    "box": null,
+    "zipcode": "1070",
+    "municipality": "Anderlecht",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0554859992",
+   "number_formatted": "0554.859.992",
+   "vat_number": "BE0554859992",
+   "name": "UCB Manufacturing Inc.",
+   "address": {
+    "street": "Orange Street",
+    "house_number": "1209",
+    "box": null,
+    "zipcode": "19801",
+    "municipality": "Wilmington",
+    "country": "Etats-Unis d'Amérique",
+    "country_code": null
+   }
+  }
+ ],
+ "nl|0403.170.701": [
+  {
+   "number": "0403170701",
+   "number_formatted": "0403.170.701",
+   "vat_number": "BE0403170701",
+   "name": "ELECTRABEL",
+   "address": {
+    "street": "Simon Bolivarlaan",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Brussel",
+    "country": "België",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "fr|0403.170.701": [
+  {
+   "number": "0403170701",
+   "number_formatted": "0403.170.701",
+   "vat_number": "BE0403170701",
+   "name": "ELECTRABEL",
+   "address": {
+    "street": "Boulevard Simon Bolivar",
+    "house_number": "36",
+    "box": null,
+    "zipcode": "1000",
+    "municipality": "Bruxelles",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  }
+ ],
+ "nl|delhaize": [
+  {
+   "number": "0402206045",
+   "number_formatted": "0402.206.045",
+   "vat_number": "BE0402206045",
+   "name": "Delhaize Le Lion/De Leeuw",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "347",
+    "box": null,
+    "zipcode": "1730",
+    "municipality": "Asse",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0412905244",
+   "number_formatted": "0412.905.244",
+   "vat_number": "BE0412905244",
+   "name": "DELHAIZE HEUSDEN",
+   "address": {
+    "street": "Meersstraat(HEU)",
+    "house_number": "12",
+    "box": null,
+    "zipcode": "9070",
+    "municipality": "Destelbergen",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0648836958",
+   "number_formatted": "0648.836.958",
+   "vat_number": "BE0648836958",
+   "name": "DELHAIZE BUSINESS EXPANSION",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "347",
+    "box": null,
+    "zipcode": "1730",
+    "municipality": "Asse",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0804835724",
+   "number_formatted": "0804.835.724",
+   "vat_number": "BE0804835724",
+   "name": "Delhaize Izegem",
+   "address": {
+    "street": "Kortrijksestraat",
+    "house_number": "272",
+    "box": null,
+    "zipcode": "8870",
+    "municipality": "Izegem",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0805451277",
+   "number_formatted": "0805.451.277",
+   "vat_number": "BE0805451277",
+   "name": "Delhaize Ledeberg",
+   "address": {
+    "street": "Driesstraat",
+    "house_number": "96",
+    "box": null,
+    "zipcode": "9050",
+    "municipality": "Gent",
+    "country": "België",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0874192011",
+   "number_formatted": "0874.192.011",
+   "vat_number": "BE0874192011",
+   "name": "DELHAIZE DEUTSCHLAND GMBH",
+   "address": {
+    "street": "Kapuzinergraben",
+    "house_number": "19",
+    "box": null,
+    "zipcode": "52062",
+    "municipality": "AACHEN",
+    "country": "Duitsland (Bondsrep.)",
+    "country_code": null
+   }
+  }
+ ],
+ "fr|delhaize": [
+  {
+   "number": "0402206045",
+   "number_formatted": "0402.206.045",
+   "vat_number": "BE0402206045",
+   "name": "Delhaize Le Lion/De Leeuw",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "347",
+    "box": null,
+    "zipcode": "1730",
+    "municipality": "Asse",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0412905244",
+   "number_formatted": "0412.905.244",
+   "vat_number": "BE0412905244",
+   "name": "DELHAIZE HEUSDEN",
+   "address": {
+    "street": "Meersstraat(HEU)",
+    "house_number": "12",
+    "box": null,
+    "zipcode": "9070",
+    "municipality": "Destelbergen",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0648836958",
+   "number_formatted": "0648.836.958",
+   "vat_number": "BE0648836958",
+   "name": "DELHAIZE BUSINESS EXPANSION",
+   "address": {
+    "street": "Brusselsesteenweg",
+    "house_number": "347",
+    "box": null,
+    "zipcode": "1730",
+    "municipality": "Asse",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0804835724",
+   "number_formatted": "0804.835.724",
+   "vat_number": "BE0804835724",
+   "name": "Delhaize Izegem",
+   "address": {
+    "street": "Kortrijksestraat",
+    "house_number": "272",
+    "box": null,
+    "zipcode": "8870",
+    "municipality": "Izegem",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0805451277",
+   "number_formatted": "0805.451.277",
+   "vat_number": "BE0805451277",
+   "name": "Delhaize Ledeberg",
+   "address": {
+    "street": "Driesstraat",
+    "house_number": "96",
+    "box": null,
+    "zipcode": "9050",
+    "municipality": "Gent",
+    "country": "Belgique",
+    "country_code": "BE"
+   }
+  },
+  {
+   "number": "0874192011",
+   "number_formatted": "0874.192.011",
+   "vat_number": "BE0874192011",
+   "name": "DELHAIZE DEUTSCHLAND GMBH",
+   "address": {
+    "street": "Kapuzinergraben",
+    "house_number": "19",
+    "box": null,
+    "zipcode": "52062",
+    "municipality": "AACHEN",
+    "country": "Allemagne (Rép.féd.)",
+    "country_code": null
+   }
+  }
+ ]
+}

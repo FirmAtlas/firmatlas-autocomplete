@@ -1,0 +1,115 @@
+.kbo-ac-popup {
+  --kbo-bg: #fff;
+  --kbo-fg: #111827;
+  --kbo-muted: #6b7280;
+  --kbo-border: rgba(17, 24, 39, 0.12);
+  --kbo-active: #f3f4f6;
+  --kbo-radius: 10px;
+  --kbo-shadow: 0 10px 30px -10px rgba(17, 24, 39, 0.25), 0 2px 6px rgba(17, 24, 39, 0.06);
+  --kbo-font: inherit;
+  --kbo-z: 2147483000;
+  position: fixed;
+  z-index: var(--kbo-z);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 4px;
+  background: var(--kbo-bg);
+  color: var(--kbo-fg);
+  border: 1px solid var(--kbo-border);
+  border-radius: var(--kbo-radius);
+  box-shadow: var(--kbo-shadow);
+  font: 14px/1.35 var(--kbo-font);
+  overflow: hidden;
+  transform-origin: top center;
+  transition:
+    opacity 140ms cubic-bezier(0.23, 1, 0.32, 1),
+    transform 140ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.kbo-ac-popup[data-side="top"] {
+  transform-origin: bottom center;
+}
+.kbo-ac-popup[hidden] {
+  display: none;
+}
+@starting-style {
+  .kbo-ac-popup {
+    opacity: 0;
+    transform: translateY(-2px) scale(0.98);
+  }
+}
+.kbo-ac-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: min(320px, 50vh);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+.kbo-ac-option {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1px;
+  min-height: 44px;
+  padding: 6px 10px;
+  border-radius: calc(var(--kbo-radius) - 4px);
+  cursor: pointer;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.kbo-ac-option[aria-selected="true"] {
+  background: var(--kbo-active);
+}
+.kbo-ac-name {
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.kbo-ac-meta {
+  color: var(--kbo-muted);
+  font-size: 12.5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.kbo-ac-empty {
+  padding: 10px;
+  color: var(--kbo-muted);
+}
+.kbo-ac-credit {
+  padding: 4px 10px 2px;
+  color: var(--kbo-muted);
+  font-size: 11px;
+  text-align: right;
+}
+.kbo-ac-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+@media (prefers-reduced-motion: reduce) {
+  .kbo-ac-popup {
+    transition: opacity 140ms ease;
+  }
+  @starting-style {
+    .kbo-ac-popup {
+      transform: none;
+    }
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .kbo-ac-popup[data-theme="auto"] {
+    --kbo-bg: #18181b;
+    --kbo-fg: #f4f4f5;
+    --kbo-muted: #a1a1aa;
+    --kbo-border: rgba(244, 244, 245, 0.14);
+    --kbo-active: #27272a;
+  }
+}
